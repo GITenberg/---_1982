@@ -1,0 +1,28 @@
+_repo: '---_1982'
+_version: 0.0.1
+alternative_title: Rashomon
+creator:
+  author:
+    agent_name: Akutagawa, Ryunosuke
+    alias: 芥川龍之介
+    birthdate: 1892
+    deathdate: 1927
+    gutenberg_agent_id: '772'
+    url: http://www.gutenberg.org/2009/agents/772
+    wikipedia: http://en.wikipedia.org/wiki/Akutagawa_Ryunosuke
+description: ''
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1982'
+language: ja
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Japan -- Social life and customs -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: 羅生門
+url: http://www.gutenberg.org/ebooks/1982
