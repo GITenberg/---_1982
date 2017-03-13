@@ -1,6 +1,9 @@
 _repo: '---_1982'
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Rashomon
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Akutagawa, Ryunosuke
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/772
     wikipedia: http://en.wikipedia.org/wiki/Akutagawa_Ryunosuke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1982#---
 gutenberg_issued: '1999-11-01'
 gutenberg_type: Text
 identifiers:
